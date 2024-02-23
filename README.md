@@ -1,2 +1,3 @@
-# Git_flow_META
-Practicar el git flow con colaboradores
+# Repositorio para practicar git flow
+En este repositorio se creearan diferentes ramas con sus respectivas funcionalidades
+
